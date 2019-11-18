@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlowMusic</string>
+    <string name="selection"><item>Delete</item></string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="search_hint">Search_Hint</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="todo">TODO</string>
+    <string name="equalizer">equalizer</string>
+
+    <string name="enabled">Enabled</string>
+    <string name="flat">Flat</string>
+    <string name="bass_boost">Bass boost</string>
+    <string name="ok">OK</string>
+
+</resources>
